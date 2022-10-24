@@ -2,3 +2,4 @@
 migrator
 node_modules
 dist
+.vscode
